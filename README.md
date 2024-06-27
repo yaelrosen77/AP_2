@@ -43,7 +43,7 @@ The following results represents running the *improved code* on 10M of numbers r
 2. Compile the program with the instruction:
    ```make all```
 3. Run
-   ```randomGenerator <seed> <num_of numbers>``` where seed is the initial seed value for the random number generator and num_of_numbers is the number of random numbers to generate. The randomGenerator program will produce an endless stream of random numbers based on the provided seed value.
+   ```./randomGenerator <seed> <num_of numbers> | ./primeCounter ``` where seed is the initial seed value for the random number generator and num_of_numbers is the number of random numbers to generate. The randomGenerator program will produce an endless stream of random numbers based on the provided seed value.
 
 ## Authors
 * [Itamar Kuznitsov](https://github.com/Itamar-Kuznitsov)
