@@ -31,8 +31,14 @@ Prime Number Check Function: The isPrime function is optimized to efficiently de
 The following results represents running the *original code* on 10M of numbers range
 ![image](https://github.com/yaelrosen77/AP_2/assets/118935583/8d3df42f-5c37-43a3-a7c4-29deff123fc5)
 
+The following results represents running the *original code* on 100M of numbers range
+![Screenshot_original100M](https://github.com/yaelrosen77/AP_2/assets/118935583/f438b21d-d078-45dd-8e7f-58f614dec42c)
+
 The following results represents running the *improved code* on 10M of numbers range
 ![image](https://github.com/yaelrosen77/AP_2/assets/118935583/056914e9-37f5-4ee6-bf73-84c52c2a8758)
+
+The following results represents running the *improved code* on 100M of numbers range
+![screenshot_improved100M](https://github.com/yaelrosen77/AP_2/assets/118935583/b481bf5b-ba2c-4496-8172-95c219d517c0)
 
 > [!NOTE]
 > We can tell that the updated code time is approximately 10.15 times better than the original messurment time.
